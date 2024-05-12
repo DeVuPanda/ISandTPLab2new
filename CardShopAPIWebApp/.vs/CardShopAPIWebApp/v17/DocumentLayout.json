@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|c:\\projects\\isandtplab2new\\cardshopapiwebapp\\cardshopapiwebapp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|solutionrelative:cardshopapiwebapp\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|c:\\projects\\isandtplab2new\\cardshopapiwebapp\\cardshopapiwebapp\\models\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|solutionrelative:cardshopapiwebapp\\models\\carddeck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|c:\\projects\\isandtplab2new\\cardshopapiwebapp\\cardshopapiwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|solutionrelative:cardshopapiwebapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|c:\\projects\\isandtplab2new\\cardshopapiwebapp\\cardshopapiwebapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|solutionrelative:cardshopapiwebapp\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|c:\\projects\\isandtplab2new\\cardshopapiwebapp\\cardshopapiwebapp\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE256C54-D2DF-4B62-B946-D06ED85F9A61}|CardShopAPIWebApp\\CardShopAPIWebApp.csproj|solutionrelative:cardshopapiwebapp\\models\\firm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "CardShopAPIWebApp\\Models\\Question.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Question.cs",
+              "RelativeToolTip": "CardShopAPIWebApp\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:40:10.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CardShopAPIWebApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Order.cs",
+              "RelativeToolTip": "CardShopAPIWebApp\\Models\\Order.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:40:07.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardDeck.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\CardDeck.cs",
+              "RelativeDocumentMoniker": "CardShopAPIWebApp\\Models\\CardDeck.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\CardDeck.cs",
+              "RelativeToolTip": "CardShopAPIWebApp\\Models\\CardDeck.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:40:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Firm.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Firm.cs",
+              "RelativeDocumentMoniker": "CardShopAPIWebApp\\Models\\Firm.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Firm.cs",
+              "RelativeToolTip": "CardShopAPIWebApp\\Models\\Firm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:39:11.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "CardShopAPIWebApp\\Models\\Review.cs",
+              "ToolTip": "C:\\Projects\\ISandTPLab2new\\CardShopAPIWebApp\\CardShopAPIWebApp\\Models\\Review.cs",
+              "RelativeToolTip": "CardShopAPIWebApp\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:39:09.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

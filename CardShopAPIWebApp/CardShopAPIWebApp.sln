@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardShopAPIWebApp", "CardShopAPIWebApp\CardShopAPIWebApp.csproj", "{DE256C54-D2DF-4B62-B946-D06ED85F9A61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE256C54-D2DF-4B62-B946-D06ED85F9A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE256C54-D2DF-4B62-B946-D06ED85F9A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE256C54-D2DF-4B62-B946-D06ED85F9A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE256C54-D2DF-4B62-B946-D06ED85F9A61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE7D119-9958-402E-972E-8833A9FEE829}
+	EndGlobalSection
+EndGlobal

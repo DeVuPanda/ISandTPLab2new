@@ -1,0 +1,159 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CardShopAPIWebApp
+build_property.RootNamespace = CardShopAPIWebApp
+build_property.ProjectDir = C:\Projects\ISandTPLab2new\CardShopAPIWebApp\CardShopAPIWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Projects\ISandTPLab2new\CardShopAPIWebApp\CardShopAPIWebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/CardDecks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZERlY2tzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/CardDecks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZERlY2tzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/CardDecks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZERlY2tzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/CardDecks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZERlY2tzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/CardDecks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZERlY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Firms/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Firms/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Firms/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Firms/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Firms/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmlybXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Questions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Questions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Questions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Questions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Questions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVlc3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Reviews/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Reviews/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Reviews/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Reviews/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Reviews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2aWV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projects/ISandTPLab2new/CardShopAPIWebApp/CardShopAPIWebApp/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gxyh265un7

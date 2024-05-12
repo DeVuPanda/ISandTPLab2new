@@ -1,0 +1,59 @@
+﻿@model IEnumerable<CardShopAPIWebApp.Model.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.OrderStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DeliveryAddress)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Deck)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DeliveryAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Deck.DeckId)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OrderId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OrderId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OrderId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
